@@ -22,6 +22,7 @@ OctoAcme manages work as a connected lifecycle:
 - [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme — Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md)
 
 ## How to use this README
 Start with the overview document for the shared principles, roles, and artifacts, then move to the process guide that matches your current phase of work. Use the personas document alongside the process guides to understand who owns which activities and how teams collaborate across the project lifecycle.
